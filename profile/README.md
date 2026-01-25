@@ -1,4 +1,6 @@
-<img src="./Logo.png" width="250"/>
+<p align="center">
+    <img src="./coduck_logo.png" width="256"/>
+</p>
 
 # Welcome to Coduck Project
 
