@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="./coduck_logo.png" width="256"/>
-    <img src="./coduck_nest_logo.png" width="256"/>
-    <img src="./cp_editorial_logo.png" width="256"/>
+    <img src="https://raw.githubusercontent.com/Coduck-Team/.github/main/profile/coduck_logo.png" width="256" alt="Coduck logo"/>
+    <img src="https://raw.githubusercontent.com/Coduck-Team/.github/main/profile/coduck_nest_logo.png" width="256" alt="Coduck Nest logo"/>
+    <img src="https://raw.githubusercontent.com/Coduck-Team/.github/main/profile/cp_editorial_logo.png" width="256" alt="CP Editorial logo"/>
 </p>
 
 # Welcome to Coduck Project
